@@ -1,0 +1,6 @@
+This is my demo project of git 
+here i use git init first for initiling the porject
+git add for adding somthing into my projet
+git status for checking of the status of my project
+git commit -m "hello world"
+
